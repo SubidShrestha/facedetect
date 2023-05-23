@@ -24,5 +24,5 @@ while True:
     if key == 27:
         break
 
-    cam.release()
+cam.release()
 cv2.destroyAllWindows()
